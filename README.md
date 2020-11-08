@@ -1,2 +1,2 @@
 # w3themes
-#collection of themes
+# collection of themes
